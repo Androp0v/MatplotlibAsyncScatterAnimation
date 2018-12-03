@@ -1,4 +1,4 @@
-# MatplotlibScatterAnimation
+# MatplotlibAsyncScatterAnimation
 
 Simple demonstration on how to use matplotlib's animation module to read and plot scatter data being generated or read in an asynchronous process (using Python's multiprocessing library).
 
